@@ -2,10 +2,6 @@ import java.util.HashMap;
 
 /**
  * A class to contain the information needed for a print statement.
- *
- *
- * A subclass of Statement. This is a partially implemented class that supports Constant type print statements.
- * You should flesh it out to handle the other types of print statements.
  */
 public class PrintStatement extends Statement
 {
